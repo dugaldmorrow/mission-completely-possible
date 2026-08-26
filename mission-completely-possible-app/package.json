@@ -1,0 +1,14 @@
+{
+  "name": "mission-completely-possible",
+  "version": "1.0.0",
+  "description": "Forge webtrigger app for the Mission: Completely Possible Rovo MCP conference game",
+  "main": "src/index.js",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@forge/api": "^4.0.0"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}

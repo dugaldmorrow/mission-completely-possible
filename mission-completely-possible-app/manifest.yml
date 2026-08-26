@@ -1,0 +1,21 @@
+modules:
+  webtrigger:
+    - key: mission-completely-possible-webtrigger-async
+      function: async
+      urlFormat: v2
+      response:
+        type: dynamic
+  function:
+    - key: async
+      handler: index.runAsync
+permissions:
+  scopes:
+    - read:page:confluence
+    - write:page:confluence
+    - read:space:confluence
+app:
+  runtime:
+    name: nodejs24.x
+    memoryMB: 256
+    architecture: arm64
+  id: ari:cloud:ecosystem::app/3de1ece0-7dc6-41a6-aa04-740390f9b531
