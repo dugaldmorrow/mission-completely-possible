@@ -45,7 +45,7 @@ Choose one:
 > Use updateConfluenceContent to correct the Q3 revenue figure in the Meridian Q3 Revenue Report from [WRONG AMOUNT] to [CORRECT AMOUNT] and add a note explaining the figure was updated to reflect [REASON].
 
 - **WRONG** = €_______ *(you found this in Prompt 3)*
-- **RIGHT** = €3.6M *(from the Jira issues)*
+- **RIGHT** = €3.6M *(the correct figure)*
 
 ---
 

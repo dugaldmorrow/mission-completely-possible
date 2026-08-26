@@ -13,10 +13,7 @@ module.exports = {
   // https://forgery.atlassian.net/wiki/spaces/FAT/pages/1839955969/Mission+Completely+Possible+Page+Tree
   parentPageId: '1839955969',
 
-  // The correct Q3 revenue figure — shown in the Jira issues and used as the fix target.
+  // The correct Q3 revenue figure — returned by the webtrigger and used as the fix target.
   correctRevenue: '€3.6M',
 
-  // The Jira project key where the three game issues are pre-loaded.
-  // Default issues will be MCP-1, MCP-2, MCP-3.
-  jiraProjectKey: 'MCP',
 };
