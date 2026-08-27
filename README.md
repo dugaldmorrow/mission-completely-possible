@@ -19,6 +19,10 @@ At the start of each game, the AI agent calls a Forge webtrigger that creates a 
 
 Each prompt has a template with blanks to fill in — the player must choose the right options to progress.
 
+![Mission: Completely Possible — diagram showing a user giving an AI agent a high-level instruction (crossed out with a red squiggle) and a dashed arrow showing the player stepping into the agent's role to issue the 4 MCP prompts directly to the Rovo MCP server](image/mission-completely-possible@2x.png)
+
+> **At the booth:** Print and display this diagram so visitors understand that in this game *they* play the role of the AI agent — issuing the 4 structured MCP prompts directly, rather than giving a single high-level instruction and watching an agent do the work.
+
 ---
 
 ## Setup (one-time, before the conference)
